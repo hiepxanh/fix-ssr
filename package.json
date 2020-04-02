@@ -1,5 +1,5 @@
 {
-  "name": "kimsbrownies",
+  "name": "ecommerce",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -46,9 +46,10 @@
     "@angular/cli": "^9.1.0",
     "@angular/compiler-cli": "^9.1.0",
     "@angular/language-service": "^9.1.0",
+    "@nguniversal/builders": "^9.1.0",
     "@types/jasmine": "^3.5.10",
     "@types/jasminewd2": "^2.0.3",
-    "@types/node": "^12.11.1",
+    "@types/node": "^12.12.34",
     "bufferutil": "^4.0.1",
     "codelyzer": "^5.1.2",
     "jasmine-core": "^3.5.0",
